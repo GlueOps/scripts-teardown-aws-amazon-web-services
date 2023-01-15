@@ -2,7 +2,7 @@
 
 This teardown is HIGHLY descructive. Please use caution or ask for help if you aren't sure what you are doing.
 
-### Directions
+## Directions
 
 - Prepare a configuration: `cp aws-nuke.yaml.tpl aws-nuke.yaml.tpl` and start updating the `aws-nuke.yaml` with all your configs.
 - Download `aws-nuke` with
