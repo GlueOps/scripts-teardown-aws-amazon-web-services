@@ -11,7 +11,7 @@ This teardown is HIGHLY descructive. Please use caution or ask for help if you a
 - Download `aws-nuke` with
 
 ```bash
-wget https://github.com/rebuy-de/aws-nuke/releases/download/v2.21.2/aws-nuke-v2.21.2-linux-amd64.tar.gz && tar -xvf aws-nuke-v2.21.2-linux-amd64.tar.gz && rm aws-nuke-v2.21.2-linux-amd64.tar.gz && mv aws-nuke-v2.21.2-linux-amd64 aws-nuke
+wget https://github.com/rebuy-de/aws-nuke/releases/download/v2.22.1/aws-nuke-v2.22.1-linux-amd64.tar.gz && tar -xvf aws-nuke-v2.22.1-linux-amd64.tar.gz && rm aws-nuke-v2.22.1-linux-amd64.tar.gz && mv aws-nuke-v2.22.1-linux-amd64 aws-nuke
 ```
 
 - Set the following environment variables, with the values from the API credentials created above.
